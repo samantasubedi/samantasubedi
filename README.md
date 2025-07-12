@@ -13,5 +13,7 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=samantasubedi&theme=github-compact)
 
 [![](https://visitcount.itsvg.in/api?id=samantasubedi&icon=0&color=0)](https://visitcount.itsvg.in)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
