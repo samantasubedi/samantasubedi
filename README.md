@@ -7,3 +7,8 @@
 
 
 <img src="https://streak-stats.demolab.com?user=samantasubedi&theme=gotham&hide_border=true" alt="samantasubedi's GitHub Stats" />
+
+
+<p >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samantasubedi&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
